@@ -4,9 +4,15 @@
 
 ## 구현 화면
 
-![stpe-2-2-2](/Users/kimdohyung/Desktop/stpe-2-2-2.gif)
++ 세로모드
 
-![step-2-2](/Users/kimdohyung/Desktop/step-2-2.gif)
+![cloudNotegif1](https://user-images.githubusercontent.com/57553889/147635038-7a2e0b4c-1a7a-4f80-9dc9-44bb1a018ab3.gif)
+
++ 가로모드
+
+![cloudnotegif2](https://user-images.githubusercontent.com/57553889/147635045-6b518c70-a1db-4dfd-a6cb-f4c080451c97.gif)
+
+
 
 
 
@@ -187,7 +193,6 @@ extension SplitViewController: DetailMemoDelegate {
 
 위의 방법을 성택한 가장 큰 이유는 공식문서에서 자식간의 소통은 SplitView를 거쳐서 하는 것이 좋다는 공식문서를 보았기 때문이다.
 
-![132133016-d394cf0c-bdaf-435c-8ed4-a3abab92335a](/Users/kimdohyung/Desktop/132133016-d394cf0c-bdaf-435c-8ed4-a3abab92335a.png)
 
 
 
